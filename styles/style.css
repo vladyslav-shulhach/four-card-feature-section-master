@@ -1,3 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(0, 0%, 98%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  font-family: "Poppins", sans-serif;
+}
+body header,
+body main,
+body footer {
+  width: 19.5rem;
+}
+
+main section {
+  display: grid;
+  gap: 20px;
+}
+
+footer {
+  bottom: 0;
+}
+
+h1,
+h2 {
+  color: hsl(234, 12%, 34%);
+}
+
+p {
+  color: hsl(229, 6%, 66%);
+}
+
+.header__title {
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+.header__subtitle {
+  font-weight: 600;
+}
+.header__description {
+  font-size: 1rem;
+}
+
+.features__card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.features__label {
+  width: 100%;
+  height: 3px;
+}
+.features__label--supervisor {
+  background-color: hsl(180, 62%, 55%);
+}
+.features__label--team-builder {
+  background-color: hsl(0, 78%, 62%);
+}
+.features__label--karma {
+  background-color: hsl(34, 97%, 64%);
+}
+.features__label--calculator {
+  background-color: hsl(212, 86%, 64%);
+}
+.features__content {
+  padding: 26px 28px;
+}
+.features__title {
+  font-size: 1.25rem;
+}
+.features__description {
+  font-size: 0.938rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
