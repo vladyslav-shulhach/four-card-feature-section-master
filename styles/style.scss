@@ -181,7 +181,7 @@ p {
 
     main {
         flex-grow: 1;
-        margin-top: 0;
+        margin-top: 4rem;
 
         section {
             grid-template-columns: 1fr 1fr; // 2x2 grid
@@ -189,8 +189,7 @@ p {
     }
 
     footer {
-        margin-top: 0;
-        bottom: 0;
+        margin-top: 4rem;
     }
 }
 
@@ -201,14 +200,9 @@ p {
     }
 
     main {
-        margin-top: 4rem;
         display: flex;
         justify-content: center;
         align-items: center;
-    }
-
-    footer {
-        margin-top: 4rem;
     }
 
     .header {
