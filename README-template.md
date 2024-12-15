@@ -27,7 +27,7 @@ Users should be able to:
 
 Here is a screenshot of the project displayed on a desktop screen.
 
-![](./screenshot.jpg)
+![](./preview.png)
 
 ### Links
 
@@ -116,5 +116,5 @@ I’m planning to dig deeper into creating more complex and flexible layouts by 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Vladyslav Shulhach](https://www.frontendmentor.io/profile/vladyslav-shulhach)
 
