@@ -31,7 +31,7 @@ Here is a screenshot of the project displayed on a desktop screen.
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-jNk2zTleZA)
 - Live Site URL: [here](https://four-card-feature-section-master-vladyslav-shulhachs-projects.vercel.app/)
 
 ## My process
